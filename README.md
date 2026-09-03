@@ -143,7 +143,7 @@ perfil:
 
 <div align="center">
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/vitoria-camargo)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/vitoria-camargo-613251418?utm_source=share_via&utm_content=profile&utm_medium=member_android)
 [![Gmail](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:vitoriafreirecamargo29@gmail.com)
 <!-- [![Portfólio](https://img.shields.io/badge/Portf%C3%B3lio-00fff7?style=for-the-badge&logo=vercel&logoColor=black)](https://seuportfolio.com) -->
 
