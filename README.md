@@ -145,8 +145,6 @@ usuario@github:~$ echo "sempre evoluindo..."
 <img src="https://github-readme-stats.vercel.app/api?username=vitoria-camargo1109&show_icons=true&theme=chartreuse-dark&hide_border=true&bg_color=0d1117&title_color=00fff7&icon_color=00fff7&text_color=c9d1d9&ring_color=8a2be2" width="49%" />
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=vitoria-camargo1109&theme=dark&hide_border=true&background=0d1117&stroke=00fff7&ring=8a2be2&fire=00ff9c&currStreakLabel=00fff7" width="49%" />
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=vitoria-camargo1109&theme=chartreuse-dark&hide_border=true&bg_color=0d1117&title_color=00fff7&text_color=c9d1d9" width="49%" />
-<img src="https://github-profile-trophy.vercel.app/?username=vitoria-camargo1109&theme=darkhub&no-frame=true&no-bg=true&margin-w=8&margin-h=8&column=4" width="49%" />
 
 </div>
 
