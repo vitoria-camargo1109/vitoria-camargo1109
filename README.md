@@ -1,11 +1,11 @@
 <div align="center">
 
 <!-- ================= BANNER PRINCIPAL ================= -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,50:302b63,100:00fff7&height=260&section=header&text=SYSTEM%20ONLINE&fontSize=55&fontColor=00fff7&fontAlignY=38&animation=fadeIn&desc=Bem-vindo%20ao%20meu%20perfil&descAlignY=58&descSize=18&descColor=8892b0" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,50:302b63,100:00fff7&height=260&section=header&text=VITÓRIA%20CAMARGO&fontSize=55&fontColor=00fff7&fontAlignY=38&animation=fadeIn&desc=Estudante%20de%20Ci%C3%AAncia%20da%20Computa%C3%A7%C3%A3o&descAlignY=58&descSize=18&descColor=8892b0" width="100%"/>
 
 <!-- ================= TYPING ANIMATION ================= -->
 <a href="#">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=26&duration=2500&pause=800&color=00FFF7&center=true&vCenter=true&multiline=true&repeat=true&width=800&height=100&lines=Ol%C3%A1%2C+eu+sou+SEU_NOME;Full-Stack+Developer;Apaixonado+por+tecnologia+e+c%C3%B3digo" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&weight=600&size=26&duration=3000&pause=800&color=00FFF7&center=true&vCenter=true&width=650&height=60&lines=Ol%C3%A1%2C+eu+sou+Vit%C3%B3ria+Camargo;Front-End+Developer;Bem-Vindo%28a%29+ao+meu+perfil" alt="Typing SVG" />
 </a>
 
 <br/>
@@ -22,15 +22,19 @@
 
 ```yaml
 perfil:
-  nome: "Seu Nome Aqui"
-  usuario: "vitoria-camargo1109"
-  funcao: "Desenvolvedor Full-Stack"
-  localizacao: "Sua Cidade, Brasil"
-  interesses:
+  nome: Vitória Lorena Freire Camargo
+  usuario: vitoria-camargo1109
+  foco: Front-End Developer
+  localizacao: São Paulo, Brasil
+  Interesses:
     - Desenvolvimento Web
     - Inteligência Artificial
+    - UI/UX e Acessibilidade
+    - Programação
     - Open Source
-  frase: "Código bom é aquele que resolve problemas reais."
+    - Novas Tecnologias
+
+💡 "Transformando curiosidade em conhecimento"
 ```
 
 <div align="center">
@@ -43,16 +47,16 @@ perfil:
 <div align="center">
 
 ### Linguagens
-<img src="https://skillicons.dev/icons?i=js,ts,python,java,cpp,go,php&theme=dark" />
+<img src="https://skillicons.dev/icons?i=js,ts,python,java&theme=dark" /> <!-- cpp,go,php--> 
 
 ### Frontend
-<img src="https://skillicons.dev/icons?i=react,vue,nextjs,html,css,tailwind&theme=dark" />
+<img src="https://skillicons.dev/icons?i=nextjs,html,css&theme=dark" /> <!-- react,vue,tailwind -->
 
-### Backend & Bancos de Dados
-<img src="https://skillicons.dev/icons?i=nodejs,express,django,flask,postgres,mongodb,mysql&theme=dark" />
+<!-- ### Backend & Bancos de Dados
+<img src="https://skillicons.dev/icons?i=nodejs,express,django,flask,postgres,mongodb,mysql&theme=dark" /> -->
 
 ### DevOps & Ferramentas
-<img src="https://skillicons.dev/icons?i=docker,git,github,vscode,figma,postman,linux&theme=dark" />
+<img src="https://skillicons.dev/icons?i=git,github,vscode,figma&theme=dark" /> <!-- docker, postman,linux -->
 
 </div>
 
@@ -85,7 +89,7 @@ perfil:
 </div>
 
 <!-- ================= OBJETIVOS ATUAIS ================= -->
-## `💻` Objetivos Atuais
+<!-- ## `💻` Objetivos Atuais
 
 <div align="center">
 
@@ -99,7 +103,7 @@ perfil:
 
 ```
 
-</div>
+</div> -->
 
 
 </div>
@@ -139,12 +143,9 @@ perfil:
 
 <div align="center">
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/vitoria-camargo1109)
-[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/vitoria-camargo1109)
-[![Twitter / X](https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white)](https://twitter.com/vitoria-camargo1109)
-[![Discord](https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white)](https://discord.com/users/vitoria-camargo1109)
-[![Gmail](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:seuemail@gmail.com)
-[![Portfólio](https://img.shields.io/badge/Portf%C3%B3lio-00fff7?style=for-the-badge&logo=vercel&logoColor=black)](https://seuportfolio.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/vitoria-camargo)
+[![Gmail](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:vitoriafreirecamargo29@gmail.com)
+<!-- [![Portfólio](https://img.shields.io/badge/Portf%C3%B3lio-00fff7?style=for-the-badge&logo=vercel&logoColor=black)](https://seuportfolio.com) -->
 
 </div>
 
@@ -153,6 +154,7 @@ perfil:
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:00fff7,50:302b63,100:0f0c29&height=150&section=footer"/>
 
-<sub>⭐ Se curtiu o meu perfil, deixe uma estrela nos meus repositórios! ⭐</sub>
+<sub>“Todo projeto é uma oportunidade para aprender, criar e evoluir.”</sub><br>
+<sub>Obrigada por visitar meu perfil! Espero que possamos compartilhar conhecimento e construir coisas incríveis juntos. 💻✨</sub>
 
 </div>
