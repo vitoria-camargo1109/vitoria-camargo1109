@@ -142,9 +142,7 @@ usuario@github:~$ echo "sempre evoluindo..."
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=vitoria-camargo1109&show_icons=true&theme=chartreuse-dark..." width="49%" />
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=vitoria-camargo1109&layout=compact..." width="49%" />
+<img src="https://raw.githubusercontent.com/vitoria-camargo1109/vitoria-camargo1109/main/stats.svg" width="100%" />
 
 </div>
 
