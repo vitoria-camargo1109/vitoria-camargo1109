@@ -10,7 +10,7 @@
 
 <br/>
 
-![Profile Views](https://komarev.com/ghpvc/?username=SEU_USUARIO&label=VISUALIZA%C3%87%C3%95ES&color=00fff7&style=for-the-badge)
+![Profile Views](https://komarev.com/ghpvc/?username=vitoria-lorena1109&label=VISUALIZA%C3%87%C3%95ES&color=00fff7&style=for-the-badge)
 ![Status](https://img.shields.io/badge/STATUS-DISPON%C3%8DVEL-00ff9c?style=for-the-badge&logo=statuspage&logoColor=white)
 
 </div>
@@ -23,7 +23,7 @@
 ```yaml
 perfil:
   nome: "Seu Nome Aqui"
-  usuario: "SEU_USUARIO"
+  usuario: "vitoria-lorena1109"
   funcao: "Desenvolvedor Full-Stack"
   localizacao: "Sua Cidade, Brasil"
   interesses:
@@ -74,7 +74,7 @@ perfil:
 
 `Tecnologia 1` `Tecnologia 2` `Tecnologia 3`
 
-[![Repo](https://img.shields.io/badge/VER_REPOSIT%C3%93RIO-00fff7?style=for-the-badge&logo=github&logoColor=black)](https://github.com/SEU_USUARIO/projeto-1)
+[![Repo](https://img.shields.io/badge/VER_REPOSIT%C3%93RIO-00fff7?style=for-the-badge&logo=github&logoColor=black)](https://github.com/vitoria-lorena1109/projeto-1)
 
 </td>
 <td width="50%">
@@ -84,7 +84,7 @@ perfil:
 
 `Tecnologia 1` `Tecnologia 2` `Tecnologia 3`
 
-[![Repo](https://img.shields.io/badge/VER_REPOSIT%C3%93RIO-8a2be2?style=for-the-badge&logo=github&logoColor=white)](https://github.com/SEU_USUARIO/projeto-2)
+[![Repo](https://img.shields.io/badge/VER_REPOSIT%C3%93RIO-8a2be2?style=for-the-badge&logo=github&logoColor=white)](https://github.com/vitoria-lorena1109/projeto-2)
 
 </td>
 </tr>
@@ -96,7 +96,7 @@ perfil:
 
 `Tecnologia 1` `Tecnologia 2` `Tecnologia 3`
 
-[![Repo](https://img.shields.io/badge/VER_REPOSIT%C3%93RIO-00ff9c?style=for-the-badge&logo=github&logoColor=black)](https://github.com/SEU_USUARIO/projeto-3)
+[![Repo](https://img.shields.io/badge/VER_REPOSIT%C3%93RIO-00ff9c?style=for-the-badge&logo=github&logoColor=black)](https://github.com/vitoria-lorena1109/projeto-3)
 
 </td>
 <td width="50%">
@@ -106,7 +106,7 @@ perfil:
 
 `Tecnologia 1` `Tecnologia 2` `Tecnologia 3`
 
-[![Repo](https://img.shields.io/badge/VER_REPOSIT%C3%93RIO-ff007f?style=for-the-badge&logo=github&logoColor=white)](https://github.com/SEU_USUARIO/projeto-4)
+[![Repo](https://img.shields.io/badge/VER_REPOSIT%C3%93RIO-ff007f?style=for-the-badge&logo=github&logoColor=white)](https://github.com/vitoria-lorena1109/projeto-4)
 
 </td>
 </tr>
@@ -142,11 +142,11 @@ usuario@github:~$ echo "sempre evoluindo..."
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=SEU_USUARIO&show_icons=true&theme=chartreuse-dark&hide_border=true&bg_color=0d1117&title_color=00fff7&icon_color=00fff7&text_color=c9d1d9&ring_color=8a2be2" width="49%" />
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=SEU_USUARIO&theme=dark&hide_border=true&background=0d1117&stroke=00fff7&ring=8a2be2&fire=00ff9c&currStreakLabel=00fff7" width="49%" />
+<img src="https://github-readme-stats.vercel.app/api?username=vitoria-lorena1109&show_icons=true&theme=chartreuse-dark&hide_border=true&bg_color=0d1117&title_color=00fff7&icon_color=00fff7&text_color=c9d1d9&ring_color=8a2be2" width="49%" />
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=vitoria-lorena1109&theme=dark&hide_border=true&background=0d1117&stroke=00fff7&ring=8a2be2&fire=00ff9c&currStreakLabel=00fff7" width="49%" />
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SEU_USUARIO&layout=compact&theme=chartreuse-dark&hide_border=true&bg_color=0d1117&title_color=00fff7&text_color=c9d1d9" width="49%" />
-<img src="https://github-profile-trophy.vercel.app/?username=SEU_USUARIO&theme=darkhub&no-frame=true&no-bg=true&margin-w=8&margin-h=8&column=4" width="49%" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=vitoria-lorena1109&layout=compact&theme=chartreuse-dark&hide_border=true&bg_color=0d1117&title_color=00fff7&text_color=c9d1d9" width="49%" />
+<img src="https://github-profile-trophy.vercel.app/?username=vitoria-lorena1109&theme=darkhub&no-frame=true&no-bg=true&margin-w=8&margin-h=8&column=4" width="49%" />
 
 </div>
 
@@ -154,7 +154,7 @@ usuario@github:~$ echo "sempre evoluindo..."
 
 ### 📈 Gráfico de Atividade
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=SEU_USUARIO&theme=react-dark&bg_color=0d1117&color=00fff7&line=8a2be2&point=00ff9c&hide_border=true&area=true" width="100%"/>
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=vitoria-lorena1109&theme=react-dark&bg_color=0d1117&color=00fff7&line=8a2be2&point=00ff9c&hide_border=true&area=true" width="100%"/>
 
 </div>
 
@@ -180,10 +180,10 @@ usuario@github:~$ echo "sempre evoluindo..."
 
 <div align="center">
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/SEU_USUARIO)
-[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/SEU_USUARIO)
-[![Twitter / X](https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white)](https://twitter.com/SEU_USUARIO)
-[![Discord](https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white)](https://discord.com/users/SEU_USUARIO)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/vitoria-lorena1109)
+[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/vitoria-lorena1109)
+[![Twitter / X](https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white)](https://twitter.com/vitoria-lorena1109)
+[![Discord](https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white)](https://discord.com/users/vitoria-lorena1109)
 [![Gmail](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:seuemail@gmail.com)
 [![Portfólio](https://img.shields.io/badge/Portf%C3%B3lio-00fff7?style=for-the-badge&logo=vercel&logoColor=black)](https://seuportfolio.com)
 
