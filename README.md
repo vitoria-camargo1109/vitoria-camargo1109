@@ -120,16 +120,18 @@ perfil:
 <div align="center">
 
 ```bash
-usuario@github:~$ cat objetivos.txt
+vitoria-camargo1109@github:~$ cat objetivos.txt
 
-[✔] Aprender novas tecnologias
-[✔] Contribuir para projetos open source
+[x] Aprender novas tecnologias
+[x] Contribuir para projetos open source
 [ ] Concluir certificação em nuvem
 [ ] Lançar um SaaS próprio
 [ ] Ajudar outros devs iniciantes
 
-usuario@github:~$ echo "sempre evoluindo..."
+vitoria-camargo1109@github:~$ echo "sempre evoluindo..."
 ```
+
+</div>
 
 </div>
 
