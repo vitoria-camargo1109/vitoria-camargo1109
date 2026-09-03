@@ -117,7 +117,11 @@ perfil:
 <!-- ================= OBJETIVOS ATUAIS ================= -->
 ## `💻` Objetivos Atuais
 
+## `💻` Objetivos Atuais
+
 <div align="center">
+
+```bash
 
 [x] Fortalecer conhecimentos em programação
 [x] Desenvolver projetos para o portfólio
@@ -125,6 +129,8 @@ perfil:
 [ ] Explorar UI/UX e acessibilidade
 [ ] Aprender novas tecnologias
 [ ] Conquistar minha primeira oportunidade na área
+
+```
 
 </div>
 
