@@ -163,57 +163,9 @@ usuario@github:~$ echo "sempre evoluindo..."
 
 ### 🟡 Pac-Man Contribution Graph
 
-<img src="https://raw.githubusercontent.com/SEU_USUARIO/SEU_USUARIO/output/pacman-dark.svg" width="100%" />
+<img src="https://raw.githubusercontent.com/vitoria-camargo1109/vitoria-camargo1109/output/pacman-dark.svg" width="100%" />
 
 </div>
-
-<details>
-<summary><b>⚙️ Como ativar essa animação (clique para expandir)</b></summary>
-
-<br/>
-
-**1.** Crie o arquivo `.github/workflows/snake.yml` neste mesmo repositório com o conteúdo abaixo:
-
-```yaml
-name: Pac-Man Animation
-
-on:
-  schedule:
-    - cron: "0 0 * * *"
-  workflow_dispatch:
-  push:
-    branches:
-      - main
-
-jobs:
-  generate:
-    permissions:
-      contents: write
-    runs-on: ubuntu-latest
-    steps:
-      - uses: Platane/snk@v3
-        id: snake-gif
-        with:
-          github_user_name: ${{ github.repository_owner }}
-          outputs: |
-            dist/pacman.svg
-            dist/pacman-dark.svg?palette=github-dark&style=github-user-2048
-
-      - uses: crazy-max/ghaction-github-pages@v4
-        with:
-          target_branch: output
-          build_dir: dist
-        env:
-          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
-```
-
-**2.** Vá em **Settings → Actions → General → Workflow permissions** e marque **"Read and write permissions"**. Salve.
-
-**3.** Vá na aba **Actions**, clique em **"Pac-Man Animation"** e depois em **"Run workflow"** para gerar a animação pela primeira vez.
-
-**4.** Pronto! A imagem acima vai aparecer automaticamente assim que o workflow terminar (leva menos de 1 minuto).
-
-</details>
 
 <div align="center">
 <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.gif" width="100%" height="4px">
