@@ -119,7 +119,7 @@ perfil:
 
 <div align="center">
 
-```bash
+```
 
 
 [x] Fortalecer conhecimentos em programação
