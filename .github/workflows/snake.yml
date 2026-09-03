@@ -32,14 +32,12 @@ jobs:
     permissions:
       contents: write
     steps:
-      - name: checkout
-        uses: actions/checkout@v4
+      - uses: actions/checkout@v4
 
       - name: generate stats image
         uses: cicirello/user-statistician@v1
         with:
-          repositories: false
-          languages: true
-          rank: true
-          gh-token: ${{ secrets.GITHUB_TOKEN }}
-          output-name: stats.svg
+          colors: dark
+          image-file: stats.svg
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
