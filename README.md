@@ -163,7 +163,7 @@ usuario@github:~$ echo "sempre evoluindo..."
 
 ### 🟡 Pac-Man Contribution Graph
 
-<img src="https://raw.githubusercontent.com/vitoria-camargo1109/vitoria-camargo1109/output/pacman-dark.svg" width="100%" />
+<img src="https://raw.githubusercontent.com/vitoria-camargo1109/vitoria-camargo1109/output/github-snake-dark.svg" width="100%" />
 
 </div>
 
