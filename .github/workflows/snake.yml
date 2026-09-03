@@ -6,6 +6,11 @@ on:
   push:
     branches:
       - main
+
+concurrency:
+  group: profile-generation
+  cancel-in-progress: false
+
 jobs:
   generate:
     permissions:
@@ -28,6 +33,7 @@ jobs:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
 
   stats:
+    needs: generate
     runs-on: ubuntu-latest
     permissions:
       contents: write
