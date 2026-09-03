@@ -119,16 +119,15 @@ perfil:
 
 <div align="center">
 
-```bash
-vitoria-camargo1109@github:~$ cat objetivos.txt
+```
 
-[x] Aprender novas tecnologias
-[x] Contribuir para projetos open source
-[ ] Concluir certificação em nuvem
-[ ] Lançar um SaaS próprio
-[ ] Ajudar outros devs iniciantes
+[x] Fortalecer conhecimentos em programação
+[x] Desenvolver projetos para o portfólio
+[ ] Aprimorar habilidades em desenvolvimento web
+[ ] Explorar UI/UX e acessibilidade
+[ ] Aprender novas tecnologias
+[ ] Conquistar minha primeira oportunidade na área
 
-vitoria-camargo1109@github:~$ echo "sempre evoluindo..."
 ```
 
 </div>
