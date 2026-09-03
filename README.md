@@ -77,36 +77,6 @@ perfil:
 [![Repo](https://img.shields.io/badge/VER_REPOSIT%C3%93RIO-00fff7?style=for-the-badge&logo=github&logoColor=black)](https://github.com/vitoria-camargo1109/projeto-1)
 
 </td>
-<td width="50%">
-
-### 🌐 Nome do Projeto 2
-> Breve descrição do projeto, o que ele faz e qual problema resolve.
-
-`Tecnologia 1` `Tecnologia 2` `Tecnologia 3`
-
-[![Repo](https://img.shields.io/badge/VER_REPOSIT%C3%93RIO-8a2be2?style=for-the-badge&logo=github&logoColor=white)](https://github.com/vitoria-camargo1109/projeto-2)
-
-</td>
-</tr>
-<tr>
-<td width="50%">
-
-### 🛰️ Nome do Projeto 3
-> Breve descrição do projeto, o que ele faz e qual problema resolve.
-
-`Tecnologia 1` `Tecnologia 2` `Tecnologia 3`
-
-[![Repo](https://img.shields.io/badge/VER_REPOSIT%C3%93RIO-00ff9c?style=for-the-badge&logo=github&logoColor=black)](https://github.com/vitoria-camargo1109/projeto-3)
-
-</td>
-<td width="50%">
-
-### 🤖 Nome do Projeto 4
-> Breve descrição do projeto, o que ele faz e qual problema resolve.
-
-`Tecnologia 1` `Tecnologia 2` `Tecnologia 3`
-
-[![Repo](https://img.shields.io/badge/VER_REPOSIT%C3%93RIO-ff007f?style=for-the-badge&logo=github&logoColor=white)](https://github.com/vitoria-camargo1109/projeto-4)
 
 </td>
 </tr>
@@ -120,15 +90,12 @@ perfil:
 <div align="center">
 
 ```
-
-
 [x] Fortalecer conhecimentos em programação
 [x] Desenvolver projetos para o portfólio
 [ ] Aprimorar habilidades em desenvolvimento web
 [ ] Explorar UI/UX e acessibilidade
 [ ] Aprender novas tecnologias
 [ ] Conquistar minha primeira oportunidade na área
-
 
 ```
 
