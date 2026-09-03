@@ -146,14 +146,6 @@ usuario@github:~$ echo "sempre evoluindo..."
 
 </div>
 
-<div align="center">
-
-### 📈 Gráfico de Atividade
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=vitoria-camargo1109&theme=react-dark&bg_color=0d1117&color=00fff7&line=8a2be2&point=00ff9c&hide_border=true&area=true" width="100%"/>
-
-</div>
-
 <!-- ================= PAC-MAN ANIMATION ================= -->
 <div align="center">
 
