@@ -30,7 +30,6 @@ perfil:
     - Desenvolvimento Web
     - Inteligência Artificial
     - UI/UX e Acessibilidade
-    - Programação
     - Open Source
     - Novas Tecnologias
 
