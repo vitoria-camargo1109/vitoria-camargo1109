@@ -1,7 +1,7 @@
 <div align="center">
 
 <!-- ================= BANNER PRINCIPAL ================= -->
-<img width="1672" height="941" alt="image" src="https://github.com/user-attachments/assets/98b874d5-9085-4bae-aa8d-799e033b03c8" />
+<img width="836" height="470,5" alt="image" src="https://github.com/user-attachments/assets/98b874d5-9085-4bae-aa8d-799e033b03c8" />
 
 <!-- ================= TYPING ANIMATION ================= -->
 <a href="#">
