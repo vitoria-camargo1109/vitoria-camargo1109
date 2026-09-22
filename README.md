@@ -109,6 +109,8 @@ perfil:
 
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=vitoria-camargo1109&theme=dark&hide_border=true&background=0d1117&stroke=9d4edd&ring=7b2ff7&fire=c77dff&currStreakLabel=9d4edd" width="49%" />
 
+![GitHub Stats](https://github-readme-stats-sage-ten-22.vercel.app/api?username=vitoria-camargo1109&show_icons=true&hide_border=true&title_color=A78BFA&icon_color=A78BFA&text_color=E9D8FD&bg_color=0d1117&ring_color=7C3AED)
+
 </div>
 
 <!-- ================= PAC-MAN ANIMATION ================= -->
