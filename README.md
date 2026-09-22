@@ -78,7 +78,7 @@ perfil:
 
 `HTML` `CSS` `JS`
 
-[![Repo](https://img.shields.io/badge/VER_REPOSIT%C3%93RIO-9d4edd?style=for-the-badge&logo=github&logoColor=black)]([https://github.com/vitoria-camargo1109/projeto_GauchoChurrascaria])
+[![Repo](https://img.shields.io/badge/VER_REPOSIT%C3%93RIO-9d4edd?style=for-the-badge&logo=github&logoColor=black)](https://github.com/vitoria-camargo1109/projeto_GauchoChurrascaria)
 
 </td>
 
