@@ -49,7 +49,7 @@ perfil:
 ### Linguagens
 <img src="https://skillicons.dev/icons?i=python,c&theme=dark" /> <!-- cpp,go,ts,php,java--> 
 
-### Front-End
+### Front-end
 <img src="https://skillicons.dev/icons?i=html,css,js&theme=dark" /> <!-- nextjs,react,vue,tailwind -->
 
 <!-- ### Backend & Bancos de Dados
