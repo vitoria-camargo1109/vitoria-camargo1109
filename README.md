@@ -76,7 +76,9 @@ perfil:
 ### 🍖Projeto Gaúcho Churrascaria 
 > Site institucional de churrascaria desenvolvido em 
 
-`HTML` `CSS` `JS`
+`HTML` `CSS` `JS` <br>
+
+**Status:** 🟣Em desenvolvimento
 
 [![Repo](https://img.shields.io/badge/VER_REPOSIT%C3%93RIO-9d4edd?style=for-the-badge&logo=github&logoColor=black)](https://github.com/vitoria-camargo1109/projeto_GauchoChurrascaria)
 
