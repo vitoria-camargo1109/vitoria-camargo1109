@@ -47,10 +47,10 @@ perfil:
 <div align="center">
 
 ### Linguagens
-<img src="https://skillicons.dev/icons?i=js,python&theme=dark" /> <!-- cpp,go,ts,php,java--> 
+<img src="https://skillicons.dev/icons?i=python,c&theme=dark" /> <!-- cpp,go,ts,php,java--> 
 
 ### Frontend
-<img src="https://skillicons.dev/icons?i=html,css&theme=dark" /> <!-- nextjs,react,vue,tailwind -->
+<img src="https://skillicons.dev/icons?i=html,css,js&theme=dark" /> <!-- nextjs,react,vue,tailwind -->
 
 <!-- ### Backend & Bancos de Dados
 <img src="https://skillicons.dev/icons?i=nodejs,express,django,flask,postgres,mongodb,mysql&theme=dark" /> -->
